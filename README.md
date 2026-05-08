@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PharmaGuard — Pharmacogenomic Risk Prediction System
 
 AI-powered web application that predicts drug-gene interaction risks from patient VCF files with LLM-generated clinical explanations.
@@ -235,4 +234,3 @@ pharmaguard/
 PharmaGuard is a clinical decision support tool for research and educational purposes. Results must be interpreted by qualified healthcare professionals. Not for standalone clinical use.
 =======
 # PharmaGuard
->>>>>>> 5c2bdd133d57d500ec3648a6f9a723f101fc62b4
